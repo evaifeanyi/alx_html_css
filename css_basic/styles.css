@@ -14,6 +14,7 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    color: blue;
 }
 
 aside {
