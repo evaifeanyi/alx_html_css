@@ -1,0 +1,28 @@
+.headphone {
+background-image: url(headphones_hero_1.jpg);
+width: 1350px;
+height: 800px;
+background-size: cover;
+background-position: center;
+margin: 0;
+padding: 0;
+}
+
+.logo {
+    height: 20px;
+    margin: 15px,50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
