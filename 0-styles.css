@@ -18,11 +18,65 @@ nav a {
     color: white;
     font-weight: bold;
     margin: 10px;
+     justify-content: space-around;
 }
 
-
-nav {
-    display: flex;
-    align-items: center;
+.first{
+    margin: auto;
+  width: 30%;
+  padding: 300px;
+  padding-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: flex-end;
+  
 }
+ 
+.button {
+    background-color: #FF6565;
+    color: white;
+    text-align: center;
+    border-radius:10px;
+    margin-left: 650px;
+    padding: 8px;
+    }
+.button:hover {
+    opacity: 0.9 ;
+}
+a:hover {
+    color: #FF6565;
+}
+a:active {
+    color: #FF6565;
+}
+ nav {
+    margin-left: 70px;
+ }
+.move {
+    margin-left: 800px;
+}
+
+.new {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 140px;
+}
+
+.secd {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 140px;
+}
+
+.third {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 100px;
+}
+
 
